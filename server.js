@@ -1,4 +1,4 @@
-import express, { static } from 'express';
+import express from 'express';
 var app = express();
 
 
